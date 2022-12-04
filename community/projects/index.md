@@ -75,6 +75,8 @@ Tags: <a href="#compiler">Compiler</a>, <a href="#editing">Editing</a>, <a href=
 
 *  [F# SonarQube Plugin](https://github.com/jmecosta/sonar-fsharp-plugin) - F# support for SonarQube.
 
+*  [Covarsky](https://github.com/teo-tsirpanis/Covarsky) - Enabling co(ntra)variance in F# types.
+
 <br />
 
 
